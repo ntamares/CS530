@@ -1,5 +1,10 @@
-/*  file_parser.h
-    CS530, Spring 2016
+/*  
+	Team Oregon
+	Manuel Bravo, Henry Curtis, David Lane, Nestor Tamares
+	SDSU - CS 530 
+	Riggins
+	
+	file_parser.h
 */
 
 #ifndef FILE_PARSER_H

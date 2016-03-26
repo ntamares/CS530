@@ -1,5 +1,10 @@
 /*
-    file_parser.cc
+    Team Oregon
+	Manuel Bravo, Henry Curtis, David Lane, Nestor Tamares
+	SDSU - CS 530 
+	Riggins
+	
+	file_parser.cc
 */
 
 #include <string>

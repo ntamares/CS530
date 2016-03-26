@@ -1,7 +1,10 @@
-/*  file_parse_exception.h
-    Exception class for file_parser
-    CS530 Spring 2016
-    Alan Riggins
+/*  
+	Team Oregon
+	Manuel Bravo, Henry Curtis, David Lane, Nestor Tamares
+	SDSU - CS 530 
+	Riggins
+	
+	file_parse_exception.h
 */    
 
 #ifndef FILE_PARSE_EXCEPTION_H
